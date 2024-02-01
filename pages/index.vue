@@ -11,7 +11,7 @@ const songs: Song[] = indexJson
     <h1>Fifi Juke Box</h1>
     <ul>
       <li v-for="(song, index) in songs" :key="index">
-        <a :href="`/songs/${song.id}`">{{ song.name }} ({{ song.artist }})</a>
+        <nuxt-link :href="`/songs/${song.id}`">{{ song.name }} ({{ song.artist }})</nuxt-link>
       </li>
     </ul>
   </div>
