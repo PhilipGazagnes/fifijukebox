@@ -4,10 +4,14 @@ import Youtube from '../components/Youtube.vue'
 
 const route = useRoute()
 
+const songName = ref('')
+
 const importData = () => {
   const jsonData = ref(null);
 
   onMounted(async () => {
+    songName.value = route.query.name.replaceAll('_', ' ');
+    
     try {
       const response = await import(`../../data/songs/${route.params.id}.json`);
       jsonData.value = response.default;
@@ -26,7 +30,12 @@ const activeSection = ref(0)
 
 <template>
   <div v-if="jsonData">
-    {{ jsonData }}
+    <h1>{{ songName }}</h1>
+    <div v-for="(section, index) in jsonData.sections">
+      <div v-for="(lyrics, index) in section.lyrics">
+         {{ lyrics }}
+      </div>
+    </div>
   </div>
   <div v-else>
     Loading...

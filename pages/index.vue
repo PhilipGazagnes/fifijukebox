@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import indexJson from '../data/index.json'
+import indexJson from '../data/indexByArtist.json'
 
 type Song = any
 
@@ -10,8 +10,13 @@ const songs: Song[] = indexJson
   <div>
     <h1>Fifi Juke Box</h1>
     <ul>
-      <li v-for="(song, index) in songs" :key="index">
-        <nuxt-link :href="`/songs/${song.id}`">{{ song.name }} ({{ song.artist }})</nuxt-link>
+      <li v-for="(section, index) in songs" :key="index">
+        {{ section.artist }}
+        <ul>
+          <li v-for="(song, index2) in section.items" :key="index2">
+            <nuxt-link :href="`/songs/${song.id}?name=${song.name.replaceAll(' ', '_')}`">{{ song.name }}</nuxt-link>
+          </li>
+        </ul>
       </li>
     </ul>
   </div>
