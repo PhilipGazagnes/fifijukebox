@@ -1,1 +1,0 @@
-export { default } from "file:///opt/projects_perso/fifijukebox/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
