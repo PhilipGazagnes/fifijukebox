@@ -23,23 +23,44 @@ const importData = () => {
   return { jsonData };
 };
 
+const handleLyrics = (lyric) => {
+  if (lyric.indexOf('***') >= 0) {
+    return lyric.replaceAll('***', '🎸')
+  }
+  return lyric
+}
+
 const { jsonData } = importData();
 
 const activeSection = ref(0)
+
+const handleSize = (param) => {
+  // handle size change
+}
 </script>
 
 <template>
-  <div v-if="jsonData">
-    <h1>{{ songName }}</h1>
-    <div v-for="(section, index) in jsonData.sections">
+  <div v-if="jsonData" class="p-2">
+    <h1 class="mb-2 font-bold text-xl">{{ songName }}</h1>
+    <div v-for="(section, index) in jsonData.sections" class="mb-4">
       <div v-for="(lyrics, index) in section.lyrics">
-         {{ lyrics }}
+         {{ handleLyrics(lyrics) }}
       </div>
     </div>
   </div>
   <div v-else>
     Loading...
   </div>
+  <button class="fixed bottom-14 right-2 w-10 h-10 bg-green-300 font-black flex justify-center items-center rounded-xl shadow-lg" @click="handleSize('less')">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256.00098 256.00098" class="w-1/2 h-1/2">
+      <path d="M156,116a8.00008,8.00008,0,0,1-8,8H84a8,8,0,0,1,0-16h64A8.00008,8.00008,0,0,1,156,116Zm73.65137,113.65479a8.00063,8.00063,0,0,1-11.31446,0L175.114,186.43188a92.11375,92.11375,0,1,1,11.31452-11.31341l43.22284,43.22284A8,8,0,0,1,229.65137,229.65479ZM116,191.99707a76,76,0,1,0-76-76A76.08614,76.08614,0,0,0,116,191.99707Z"/>
+    </svg>
+  </button>
+  <button class="fixed bottom-2 right-2 w-10 h-10 bg-green-300 font-black flex justify-center items-center rounded-xl shadow-lg" @click="handleSize('more')">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256.00098 256.00098" class="w-3/4 h-3/4">
+      <path d="M156,116a8.00008,8.00008,0,0,1-8,8H124v24a8,8,0,0,1-16,0V124H84a8,8,0,0,1,0-16h24V84a8,8,0,0,1,16,0v24h24A8.00008,8.00008,0,0,1,156,116Zm73.65137,113.65381a8.00063,8.00063,0,0,1-11.31446,0l-43.2229-43.2229a92.11385,92.11385,0,1,1,11.31452-11.31342l43.22284,43.22284A8,8,0,0,1,229.65137,229.65381ZM116,191.99609a76,76,0,1,0-76-76A76.08614,76.08614,0,0,0,116,191.99609Z"/>
+    </svg>
+  </button>
 </template>
 
 <style>
