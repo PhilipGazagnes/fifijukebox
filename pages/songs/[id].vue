@@ -47,6 +47,7 @@ const handleSize = (param) => {
 
 <template>
   <div v-if="jsonData" class="p-2" :style="{ fontSize: `${baseFontSize}px`, lineHeight: `${baseFontSize + 14}px` }">
+    <nuxt-link to="/" class="text-blue-500 underline mb-8 inline-block text-sm">Retour liste</nuxt-link>
     <h1 class="mb-8 font-bold text-xl">{{ songName }}</h1>
     <div v-for="(section, index) in jsonData.sections" class="mb-4">
       <div v-for="(lyrics, index) in section.lyrics">
