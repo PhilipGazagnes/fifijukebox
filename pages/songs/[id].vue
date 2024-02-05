@@ -26,22 +26,28 @@ const importData = () => {
 const handleLyrics = (lyric) => {
   if (lyric.indexOf('***') >= 0) {
     return lyric.replaceAll('***', '🎸')
+  } else if (lyric.indexOf('+++') >= 0) {
+    return lyric.replaceAll('+++', '')
   }
   return lyric
 }
 
 const { jsonData } = importData();
 
-const activeSection = ref(0)
+const baseFontSize = ref(16)
 
 const handleSize = (param) => {
-  // handle size change
+  if (param === 'more') {
+    baseFontSize.value += 2
+  } else {
+    baseFontSize.value -= 2
+  }
 }
 </script>
 
 <template>
-  <div v-if="jsonData" class="p-2">
-    <h1 class="mb-2 font-bold text-xl">{{ songName }}</h1>
+  <div v-if="jsonData" class="p-2" :style="{ fontSize: `${baseFontSize}px`, lineHeight: `${baseFontSize + 14}px` }">
+    <h1 class="mb-8 font-bold text-xl">{{ songName }}</h1>
     <div v-for="(section, index) in jsonData.sections" class="mb-4">
       <div v-for="(lyrics, index) in section.lyrics">
          {{ handleLyrics(lyrics) }}
