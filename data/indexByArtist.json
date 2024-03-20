@@ -129,12 +129,7 @@
         "artist": "Angèle",
         "id": "0275",
         "lang": "FR"
-      }
-    ]
-  },
-  {
-    "artist": "Angèle / Romeo Elvis",
-    "items": [
+      },
       {
         "name": "Tout oublier",
         "artist": "Angèle / Romeo Elvis",
@@ -172,6 +167,12 @@
         "name": "Sensualité",
         "artist": "Axelle Red",
         "id": "0191",
+        "lang": "FR"
+      },
+      {
+        "name": "Manhattan Kaboul",
+        "artist": "Renaud, Axelle Red",
+        "id": "0353",
         "lang": "FR"
       }
     ]
@@ -363,12 +364,7 @@
         "artist": "Céline Dion",
         "id": "0318",
         "lang": "FR"
-      }
-    ]
-  },
-  {
-    "artist": "Céline Dion (& Kids United)",
-    "items": [
+      },
       {
         "name": "Destin",
         "artist": "Céline Dion (& Kids United)",
@@ -1884,12 +1880,7 @@
         "artist": "Renaud",
         "id": "0272",
         "lang": "FR"
-      }
-    ]
-  },
-  {
-    "artist": "Renaud, Axelle Red",
-    "items": [
+      },
       {
         "name": "Manhattan Kaboul",
         "artist": "Renaud, Axelle Red",
@@ -1935,6 +1926,17 @@
         "artist": "Rolling Stones",
         "id": "0273",
         "lang": "EN"
+      }
+    ]
+  },
+  {
+    "artist": "Roméo Elvis",
+    "items": [
+      {
+        "name": "Tout oublier",
+        "artist": "Angèle / Romeo Elvis",
+        "id": "0169",
+        "lang": "FR"
       }
     ]
   },

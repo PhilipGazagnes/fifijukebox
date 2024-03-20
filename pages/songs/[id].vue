@@ -29,6 +29,12 @@ const handleLyrics = (lyric) => {
   } else if (lyric.indexOf('+++') >= 0) {
     return lyric.replaceAll('+++', '')
   }
+  if (lyric.indexOf('{m{') >= 0) {
+    return lyric.replaceAll('{m{', '<span class="boy">').replaceAll('}}', '</span>');
+  }
+  if (lyric.indexOf('{l{') >= 0) {
+    return lyric.replaceAll('{l{', '<span class="girl">').replaceAll('}}', '</span>');
+  }
   return lyric
 }
 
@@ -50,9 +56,7 @@ const handleSize = (param) => {
     <nuxt-link to="/" class="text-blue-500 underline mb-8 inline-block text-sm">Retour liste</nuxt-link>
     <h1 class="mb-8 font-bold text-xl">{{ songName }}</h1>
     <div v-for="(section, index) in jsonData.sections" class="mb-4">
-      <div v-for="(lyrics, index) in section.lyrics">
-         {{ handleLyrics(lyrics) }}
-      </div>
+      <div v-for="(lyrics, index) in section.lyrics" v-html="handleLyrics(lyrics)" />
     </div>
   </div>
   <div v-else>
@@ -110,5 +114,11 @@ body, html {
     background: #eee;
     font-weight: bold;
   }
+}
+.boy {
+  color:blue;
+}
+.girl {
+  color:#ff00ff;
 }
 </style>
