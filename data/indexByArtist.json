@@ -188,17 +188,6 @@
     ]
   },
   {
-    "artist": "Ben harper",
-    "items": [
-      {
-        "name": "Steal my kisses",
-        "artist": "Ben harper",
-        "id": "0285",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
     "artist": "Ben l'oncle Soul",
     "items": [
       {
@@ -238,29 +227,12 @@
     ]
   },
   {
-    "artist": "Black Sabbath",
-    "items": [
-      {
-        "name": "Paranoid",
-        "artist": "Black Sabbath",
-        "id": "0009",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
     "artist": "Blondie",
     "items": [
       {
         "name": "Call me",
         "artist": "Blondie",
         "id": "0010",
-        "lang": "EN"
-      },
-      {
-        "name": "One way or another",
-        "artist": "Blondie",
-        "id": "0011",
         "lang": "EN"
       }
     ]
@@ -322,12 +294,6 @@
         "name": "Baby one more time",
         "artist": "Britney Spears",
         "id": "0159",
-        "lang": "EN"
-      },
-      {
-        "name": "Toxic",
-        "artist": "Britney Spears",
-        "id": "0212",
         "lang": "EN"
       }
     ]
@@ -641,17 +607,6 @@
     ]
   },
   {
-    "artist": "Deep Purple",
-    "items": [
-      {
-        "name": "Smoke on the water",
-        "artist": "Deep Purple",
-        "id": "0024",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
     "artist": "Desireless",
     "items": [
       {
@@ -911,17 +866,6 @@
     ]
   },
   {
-    "artist": "Gaëtan Roussel / Vanessa Paradis",
-    "items": [
-      {
-        "name": "Tu me manques et pourtant tu es là",
-        "artist": "Gaëtan Roussel / Vanessa Paradis",
-        "id": "0320",
-        "lang": "FR"
-      }
-    ]
-  },
-  {
     "artist": "Gala",
     "items": [
       {
@@ -954,12 +898,6 @@
         "lang": "FR"
       },
       {
-        "name": "Trompettes de la renommée",
-        "artist": "Georges Brassens",
-        "id": "0248",
-        "lang": "FR"
-      },
-      {
         "name": "Le pornographe",
         "artist": "Georges Brassens",
         "id": "0249",
@@ -969,12 +907,6 @@
         "name": "P... de toi",
         "artist": "Georges Brassens",
         "id": "0250",
-        "lang": "FR"
-      },
-      {
-        "name": "Quatre vingt quinze fois sur cent",
-        "artist": "Georges Brassens",
-        "id": "0251",
         "lang": "FR"
       }
     ]
@@ -1328,17 +1260,6 @@
     ]
   },
   {
-    "artist": "Labelle",
-    "items": [
-      {
-        "name": "Voulez vous coucher avec moi ce soir ?",
-        "artist": "Labelle",
-        "id": "0053",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
     "artist": "Lady Gaga",
     "items": [
       {
@@ -1390,17 +1311,6 @@
         "artist": "Les Sheriff",
         "id": "0260",
         "lang": "FR"
-      }
-    ]
-  },
-  {
-    "artist": "Loreen",
-    "items": [
-      {
-        "name": "Tattoo",
-        "artist": "Loreen",
-        "id": "0339",
-        "lang": "EN"
       }
     ]
   },
@@ -1521,17 +1431,6 @@
     ]
   },
   {
-    "artist": "Maroon 5",
-    "items": [
-      {
-        "name": "Memories",
-        "artist": "Maroon 5",
-        "id": "0174",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
     "artist": "Maxime le Forestier",
     "items": [
       {
@@ -1594,17 +1493,6 @@
         "artist": "Michel Sardou",
         "id": "0201",
         "lang": "FR"
-      }
-    ]
-  },
-  {
-    "artist": "Mike Oldfield",
-    "items": [
-      {
-        "name": "Moonlight shadow",
-        "artist": "Mike Oldfield",
-        "id": "0059",
-        "lang": "EN"
       }
     ]
   },
@@ -1771,12 +1659,6 @@
         "name": "Le vent nous portera",
         "artist": "Noir Désir",
         "id": "0068",
-        "lang": "FR"
-      },
-      {
-        "name": "Tostaky",
-        "artist": "Noir Désir",
-        "id": "0069",
         "lang": "FR"
       },
       {
@@ -1957,12 +1839,6 @@
         "artist": "Queen",
         "id": "0270",
         "lang": "EN"
-      },
-      {
-        "name": "We will rock you",
-        "artist": "Queen",
-        "id": "0284",
-        "lang": "EN"
       }
     ]
   },
@@ -1984,17 +1860,6 @@
         "name": "Hit the road Jack",
         "artist": "Ray Charles",
         "id": "0300",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
-    "artist": "Red hot chili peppers",
-    "items": [
-      {
-        "name": "Californication",
-        "artist": "Red hot chili peppers",
-        "id": "0211",
         "lang": "EN"
       }
     ]
@@ -2107,17 +1972,6 @@
     ]
   },
   {
-    "artist": "Simon & Garfunkel",
-    "items": [
-      {
-        "name": "Sound of silence",
-        "artist": "Simon & Garfunkel",
-        "id": "0217",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
     "artist": "Sinsemilia (& Kids United)",
     "items": [
       {
@@ -2146,17 +2000,6 @@
         "name": "Wannabe",
         "artist": "Spice girls",
         "id": "0127",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
-    "artist": "Steevie Wonder",
-    "items": [
-      {
-        "name": "Superstition",
-        "artist": "Steevie Wonder",
-        "id": "0083",
         "lang": "EN"
       }
     ]
@@ -2294,12 +2137,6 @@
         "artist": "The Clash",
         "id": "0096",
         "lang": "EN"
-      },
-      {
-        "name": "Should I stay or should I go ?",
-        "artist": "The Clash",
-        "id": "0097",
-        "lang": "EN"
       }
     ]
   },
@@ -2321,17 +2158,6 @@
         "name": "Long train running",
         "artist": "The Doobie Brothers",
         "id": "0100",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
-    "artist": "The Doors",
-    "items": [
-      {
-        "name": "Road House Blues",
-        "artist": "The Doors",
-        "id": "0101",
         "lang": "EN"
       }
     ]
@@ -2382,12 +2208,6 @@
         "name": "Message in a bottle",
         "artist": "The Police",
         "id": "0105",
-        "lang": "EN"
-      },
-      {
-        "name": "So lonely",
-        "artist": "The Police",
-        "id": "0106",
         "lang": "EN"
       }
     ]
@@ -2517,23 +2337,6 @@
         "artist": "Trust",
         "id": "0110",
         "lang": "FR"
-      }
-    ]
-  },
-  {
-    "artist": "U2",
-    "items": [
-      {
-        "name": "New years day",
-        "artist": "U2",
-        "id": "0111",
-        "lang": "EN"
-      },
-      {
-        "name": "Sunday bloody sunday",
-        "artist": "U2",
-        "id": "0112",
-        "lang": "EN"
       }
     ]
   },
