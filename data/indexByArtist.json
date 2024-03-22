@@ -614,17 +614,6 @@
     ]
   },
   {
-    "artist": "Dolly",
-    "items": [
-      {
-        "name": "Je ne veux pas rester sage",
-        "artist": "Dolly",
-        "id": "0026",
-        "lang": "FR"
-      }
-    ]
-  },
-  {
     "artist": "Donna Summer",
     "items": [
       {
@@ -653,17 +642,6 @@
         "name": "Save tonight",
         "artist": "Eagle Eye Cherry",
         "id": "0286",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
-    "artist": "Eddie Floyd",
-    "items": [
-      {
-        "name": "Knock on wood",
-        "artist": "Eddie Floyd",
-        "id": "0005",
         "lang": "EN"
       }
     ]
@@ -1178,23 +1156,6 @@
     ]
   },
   {
-    "artist": "Juliette Armanet",
-    "items": [
-      {
-        "name": "L'amour en solitaire",
-        "artist": "Juliette Armanet",
-        "id": "0327",
-        "lang": "FR"
-      },
-      {
-        "name": "Imaginer l'amour",
-        "artist": "Juliette Armanet",
-        "id": "0343",
-        "lang": "FR"
-      }
-    ]
-  },
-  {
     "artist": "K. Maro",
     "items": [
       {
@@ -1471,17 +1432,6 @@
     ]
   },
   {
-    "artist": "Michael Jackson",
-    "items": [
-      {
-        "name": "Beat it",
-        "artist": "Michael Jackson",
-        "id": "0057",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
     "artist": "Michel Sardou",
     "items": [
       {
@@ -1493,19 +1443,14 @@
     ]
   },
   {
-    "artist": "Miley Cirrus",
+    "artist": "Miley Cirus",
     "items": [
       {
         "name": "Joleen",
         "artist": "Miley Cirrus",
         "id": "0340",
         "lang": "EN"
-      }
-    ]
-  },
-  {
-    "artist": "Miley Cirus",
-    "items": [
+      },
       {
         "name": "Flowers",
         "artist": "Miley Cirus",
@@ -1549,28 +1494,6 @@
         "name": "These boots are made for walking",
         "artist": "Nancy Sinatra",
         "id": "0238",
-        "lang": "EN"
-      }
-    ]
-  },
-  {
-    "artist": "Neg Marrons",
-    "items": [
-      {
-        "name": "Le bilan",
-        "artist": "Neg Marrons",
-        "id": "0307",
-        "lang": "FR"
-      }
-    ]
-  },
-  {
-    "artist": "Neil Young",
-    "items": [
-      {
-        "name": "Heart of gold",
-        "artist": "Neil Young",
-        "id": "0209",
         "lang": "EN"
       }
     ]
@@ -1930,17 +1853,6 @@
         "name": "Tout oublier",
         "artist": "Angèle / Romeo Elvis",
         "id": "0169",
-        "lang": "FR"
-      }
-    ]
-  },
-  {
-    "artist": "Sabine Paturel",
-    "items": [
-      {
-        "name": "Les bêtises",
-        "artist": "Sabine Paturel",
-        "id": "0315",
         "lang": "FR"
       }
     ]
