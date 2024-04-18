@@ -488,6 +488,12 @@
         "artist": "Claude Nougaro",
         "id": "0305",
         "lang": "FR"
+      },
+      {
+        "name": "Nougayork",
+        "artist": "Claude Nougaro",
+        "id": "0357",
+        "lang": "FR"
       }
     ]
   },
@@ -750,6 +756,12 @@
   {
     "artist": "France Gall",
     "items": [
+      {
+        "name": "Poupée de cire, poupée de son",
+        "artist": "France Gall",
+        "id": "0356",
+        "lang": "FR"
+      },
       {
         "name": "Résiste",
         "artist": "France Gall",
