@@ -960,6 +960,17 @@
     ]
   },
   {
+    "artist": "Green Day",
+    "items": [
+      {
+        "name": "Basket Case",
+        "artist": "Green Day",
+        "id": "0362",
+        "lang": "EN"
+      }
+    ]
+  },
+  {
     "artist": "Guillaume Grand",
     "items": [
       {
@@ -2262,6 +2273,17 @@
         "name": "Antisocial",
         "artist": "Trust",
         "id": "0110",
+        "lang": "FR"
+      }
+    ]
+  },
+  {
+    "artist": "Tryo",
+    "items": [
+      {
+        "name": "L'Hymne de nos campagnes",
+        "artist": "Tryo",
+        "id": "0360",
         "lang": "FR"
       }
     ]
