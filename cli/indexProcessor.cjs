@@ -11,10 +11,10 @@ function transformData(inputData) {
         
         const { artist } = item;
 
-        if (!groupedArray[artist]) {
-            groupedArray[artist] = { artist, items: [] };
-        }
         if (item.fifi) {
+            if (!groupedArray[artist]) {
+                groupedArray[artist] = { artist, items: [] };
+            }
             groupedArray[artist].items.push(item);
         }
     });
