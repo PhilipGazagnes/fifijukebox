@@ -6,7 +6,12 @@
         "name": "What's up",
         "artist": "4 non blondes",
         "id": "0224",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "madyfab",
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -14,22 +19,14 @@
     "artist": "Abba",
     "items": [
       {
-        "name": "Mamma mia",
-        "artist": "Abba",
-        "id": "0329",
-        "lang": "EN"
-      },
-      {
-        "name": "Does your mother know",
-        "artist": "Abba",
-        "id": "0346",
-        "lang": "EN"
-      },
-      {
         "name": "Dancing queen",
         "artist": "Abba",
         "id": "0348",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -40,7 +37,11 @@
         "name": "Highway to hell",
         "artist": "AC/DC",
         "id": "0001",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -51,20 +52,17 @@
         "name": "All that she wants",
         "artist": "Ace of Base",
         "id": "0162",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
   {
     "artist": "Adèle",
-    "items": [
-      {
-        "name": "Rolling in the deep",
-        "artist": "Adèle",
-        "id": "0338",
-        "lang": "EN"
-      }
-    ]
+    "items": []
   },
   {
     "artist": "Alain Bashung",
@@ -73,7 +71,11 @@
         "name": "Gaby",
         "artist": "Alain Bashung",
         "id": "0002",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -84,9 +86,17 @@
         "name": "Foule sentimentale",
         "artist": "Alain Souchon",
         "id": "0003",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Alessia Cara",
+    "items": []
   },
   {
     "artist": "Amel Bent",
@@ -95,7 +105,11 @@
         "name": "Ma Philosophie",
         "artist": "Amel Bent",
         "id": "0279",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -106,7 +120,11 @@
         "name": "A horse with no name",
         "artist": "America",
         "id": "0004",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -117,7 +135,11 @@
         "name": "I'm outa love",
         "artist": "Anastacia",
         "id": "0277",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -128,26 +150,29 @@
         "name": "Balance ton quoi",
         "artist": "Angèle",
         "id": "0275",
-        "lang": "FR"
-      },
-      {
-        "name": "Tout oublier",
-        "artist": "Angèle / Romeo Elvis",
-        "id": "0169",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
   {
+    "artist": "Angèle / Romeo Elvis",
+    "items": []
+  },
+  {
+    "artist": "Anne Sylvestre",
+    "items": []
+  },
+  {
     "artist": "Aretha Franklin",
-    "items": [
-      {
-        "name": "Chain of fool",
-        "artist": "Aretha Franklin",
-        "id": "0098",
-        "lang": "EN"
-      }
-    ]
+    "items": []
+  },
+  {
+    "artist": "Avicii",
+    "items": []
   },
   {
     "artist": "Axel Bauer",
@@ -156,7 +181,11 @@
         "name": "Eteins la lumière",
         "artist": "Axel Bauer",
         "id": "0278",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -167,15 +196,18 @@
         "name": "Sensualité",
         "artist": "Axelle Red",
         "id": "0191",
-        "lang": "FR"
-      },
-      {
-        "name": "Manhattan Kaboul",
-        "artist": "Renaud, Axelle Red",
-        "id": "0353",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil",
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Barbara Pravi",
+    "items": []
   },
   {
     "artist": "Ben E King",
@@ -184,9 +216,17 @@
         "name": "Stand by me",
         "artist": "Ben E King",
         "id": "0198",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Ben harper",
+    "items": []
   },
   {
     "artist": "Ben l'oncle Soul",
@@ -195,9 +235,18 @@
         "name": "Soulman",
         "artist": "Ben l'oncle Soul",
         "id": "0177",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive",
+          "phil"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Beth Hart",
+    "items": []
   },
   {
     "artist": "Big Soul",
@@ -206,7 +255,11 @@
         "name": "Le brio",
         "artist": "Big Soul",
         "id": "0006",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -217,26 +270,42 @@
         "name": "Ain't no sunshine",
         "artist": "Bill Withers",
         "id": "0007",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Just the two of us",
         "artist": "Bill Withers",
         "id": "0008",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Black Sabbath",
+    "items": [
+      {
+        "name": "Paranoid",
+        "artist": "Black Sabbath",
+        "id": "0009",
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
   {
     "artist": "Blondie",
-    "items": [
-      {
-        "name": "Call me",
-        "artist": "Blondie",
-        "id": "0010",
-        "lang": "EN"
-      }
-    ]
+    "items": []
   },
   {
     "artist": "Blues Brothers",
@@ -245,13 +314,21 @@
         "name": "Everybody needs somebody to love",
         "artist": "Blues Brothers",
         "id": "0012",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Sweet home Chicago",
         "artist": "Blues Brothers",
         "id": "0013",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -262,7 +339,11 @@
         "name": "No woman no cry",
         "artist": "Bob Marley",
         "id": "0014",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -273,7 +354,11 @@
         "name": "Sunny",
         "artist": "Boney M",
         "id": "0016",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -284,9 +369,17 @@
         "name": "Emmène moi",
         "artist": "Boulevard des Airs",
         "id": "0017",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Brian Adams",
+    "items": []
   },
   {
     "artist": "Britney Spears",
@@ -295,9 +388,27 @@
         "name": "Baby one more time",
         "artist": "Britney Spears",
         "id": "0159",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      },
+      {
+        "name": "Toxic",
+        "artist": "Britney Spears",
+        "id": "0212",
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Bruce Channel",
+    "items": []
   },
   {
     "artist": "Bruno Mars",
@@ -306,13 +417,21 @@
         "name": "Locked out of heaven",
         "artist": "Bruno Mars",
         "id": "0290",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "syl"
+        ],
+        "fifi": true
       },
       {
         "name": "When I was your man",
         "artist": "Bruno Mars",
         "id": "0332",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -323,7 +442,11 @@
         "name": "En Apesanteur",
         "artist": "Calogero",
         "id": "0280",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -334,7 +457,11 @@
         "name": "Fortunate son",
         "artist": "CCR",
         "id": "0118",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -345,31 +472,48 @@
         "name": "J'irai ou tu iras",
         "artist": "Céline Dion",
         "id": "0128",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Pour que tu m'aimes encore",
         "artist": "Céline Dion",
         "id": "0254",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil",
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Prière Païenne",
         "artist": "Céline Dion",
         "id": "0255",
-        "lang": "FR"
-      },
-      {
-        "name": "D'amour ou d'amitié",
-        "artist": "Céline Dion",
-        "id": "0318",
-        "lang": "FR"
-      },
+        "lang": "FR",
+        "scope": [
+          "phil",
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Céline Dion (& Kids United)",
+    "items": [
       {
         "name": "Destin",
         "artist": "Céline Dion (& Kids United)",
         "id": "0126",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -380,25 +524,42 @@
         "name": "La Bohème",
         "artist": "Charles Aznavour",
         "id": "0185",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "Je m'voyais déjà",
         "artist": "Charles Aznavour",
         "id": "0186",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil",
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Emmenez-moi",
         "artist": "Charles Aznavour",
         "id": "0187",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "Mes emmerdes",
         "artist": "Charles Aznavour",
         "id": "0188",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -409,7 +570,24 @@
         "name": "Le Freak",
         "artist": "Chic",
         "id": "0018",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Chris Isaak",
+    "items": [
+      {
+        "name": "Wicked Game",
+        "artist": "Chris Isaak",
+        "id": "0371",
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -420,7 +598,11 @@
         "name": "Les Mots bleus",
         "artist": "Christophe",
         "id": "0019",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -431,7 +613,21 @@
         "name": "Y'a du soleil",
         "artist": "Christophe Maé",
         "id": "0297",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      },
+      {
+        "name": "On s'attache",
+        "artist": "Christophe Maé",
+        "id": "0378",
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -442,7 +638,11 @@
         "name": "Johnny be good",
         "artist": "Chuck berry",
         "id": "0287",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "syl"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -453,7 +653,11 @@
         "name": "La Grenade",
         "artist": "Clara Luciani",
         "id": "0137",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -464,19 +668,41 @@
         "name": "Alexandrie Alexandra",
         "artist": "Claude François",
         "id": "0020",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Cette année là",
         "artist": "Claude François",
         "id": "0154",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Comme d'habitude",
         "artist": "Claude François",
         "id": "0256",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
+      },
+      {
+        "name": "Belinda",
+        "artist": "Claude François",
+        "id": "0364",
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -487,13 +713,11 @@
         "name": "Armstrong",
         "artist": "Claude Nougaro",
         "id": "0305",
-        "lang": "FR"
-      },
-      {
-        "name": "Nougayork",
-        "artist": "Claude Nougaro",
-        "id": "0357",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -504,9 +728,17 @@
         "name": "Femme libérée",
         "artist": "Cookie Dingler",
         "id": "0129",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Counting Crows",
+    "items": []
   },
   {
     "artist": "Cranberries",
@@ -515,7 +747,11 @@
         "name": "Zombie",
         "artist": "Cranberries",
         "id": "0021",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -526,7 +762,9 @@
         "name": "Get Lucky",
         "artist": "Daft Punk",
         "id": "0160",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [],
+        "fifi": true
       }
     ]
   },
@@ -537,7 +775,12 @@
         "name": "Mourir sur scène",
         "artist": "Dalida",
         "id": "0193",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil",
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -548,19 +791,32 @@
         "name": "Mon fils ma bataille",
         "artist": "Daniel Balavoine",
         "id": "0022",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "L'Aziza",
         "artist": "Daniel Balavoine",
         "id": "0158",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Tous les cris les SOS",
         "artist": "Daniel Balavoine",
         "id": "0245",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil",
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -571,7 +827,11 @@
         "name": "Mon vieux",
         "artist": "Daniel Guichard",
         "id": "0330",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -582,7 +842,11 @@
         "name": "Heroes",
         "artist": "David Bowie",
         "id": "0213",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -593,7 +857,11 @@
         "name": "Est-ce que tu viens pour les vacances",
         "artist": "David et Jonathan",
         "id": "0349",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -604,9 +872,17 @@
         "name": "Sur la route",
         "artist": "De Palmas",
         "id": "0023",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Deep Purple",
+    "items": []
   },
   {
     "artist": "Desireless",
@@ -615,9 +891,17 @@
         "name": "Voyage voyage",
         "artist": "Desireless",
         "id": "0025",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Dolly",
+    "items": []
   },
   {
     "artist": "Donna Summer",
@@ -626,7 +910,24 @@
         "name": "Hot stuff",
         "artist": "Donna Summer",
         "id": "0027",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Doris Day",
+    "items": [
+      {
+        "name": "Dream a little dream of me",
+        "artist": "Doris Day",
+        "id": "0341",
+        "lang": "EN",
+        "scope": [],
+        "fifi": true
       }
     ]
   },
@@ -637,7 +938,11 @@
         "name": "Allo Allo Mr. l'Ordinateur",
         "artist": "Dorothée",
         "id": "0257",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -648,9 +953,22 @@
         "name": "Save tonight",
         "artist": "Eagle Eye Cherry",
         "id": "0286",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "syl",
+          "phil"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Ed Sheeran",
+    "items": []
+  },
+  {
+    "artist": "Eddie Floyd",
+    "items": []
   },
   {
     "artist": "Eddy Mitchell",
@@ -659,13 +977,22 @@
         "name": "Pas de Boogie Woogie",
         "artist": "Eddy Mitchell",
         "id": "0029",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Couleur menthe à l'eau",
         "artist": "Eddy Mitchell",
         "id": "0190",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive",
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -676,7 +1003,11 @@
         "name": "L'homme à la moto",
         "artist": "Edith Piaf",
         "id": "0322",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -687,7 +1018,11 @@
         "name": "Daniela",
         "artist": "Elmer Food Beat",
         "id": "0031",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -698,21 +1033,17 @@
         "name": "Blue Suede Shoes",
         "artist": "Elvis Presley",
         "id": "0032",
-        "lang": "EN"
-      },
-      {
-        "name": "Hount dog",
-        "artist": "Elvis Presley",
-        "id": "0033",
-        "lang": "EN"
-      },
-      {
-        "name": "Jailhouse rock",
-        "artist": "Elvis Presley",
-        "id": "0034",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Emile et images",
+    "items": []
   },
   {
     "artist": "Emile et Images",
@@ -721,7 +1052,11 @@
         "name": "Les démons de minuit",
         "artist": "Emile et Images",
         "id": "0155",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -732,13 +1067,21 @@
         "name": "Cocaine",
         "artist": "Eric Clapton",
         "id": "0035",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Layla",
         "artist": "Eric Clapton",
         "id": "0036",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -749,7 +1092,34 @@
         "name": "Sweet dreams",
         "artist": "Eurythmics",
         "id": "0232",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "madyfab"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Evanescence",
+    "items": []
+  },
+  {
+    "artist": "Flashdance",
+    "items": []
+  },
+  {
+    "artist": "Franc Gall",
+    "items": [
+      {
+        "name": "Poupée de cire, poupée de son",
+        "artist": "Franc Gall",
+        "id": "0356",
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -757,28 +1127,34 @@
     "artist": "France Gall",
     "items": [
       {
-        "name": "Poupée de cire, poupée de son",
-        "artist": "France Gall",
-        "id": "0356",
-        "lang": "FR"
-      },
-      {
         "name": "Résiste",
         "artist": "France Gall",
         "id": "0164",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Il jouait du piano debout",
         "artist": "France Gall",
         "id": "0165",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Ella elle l'a",
         "artist": "France Gall",
         "id": "0167",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -789,43 +1165,71 @@
         "name": "Encore et encore",
         "artist": "Francis Cabrel",
         "id": "0037",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Petite Marie",
         "artist": "Francis Cabrel",
         "id": "0203",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "La Corrida",
         "artist": "Francis Cabrel",
         "id": "0204",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "L'encre de tes yeux",
         "artist": "Francis Cabrel",
         "id": "0205",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "Les murs de poussière",
         "artist": "Francis Cabrel",
         "id": "0206",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "Je l'aime à mourir",
         "artist": "Francis Cabrel",
         "id": "0207",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "La cabane du pêcheur",
         "artist": "Francis Cabrel",
         "id": "0253",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -836,7 +1240,11 @@
         "name": "Fruits de la passion",
         "artist": "Francky Vincent",
         "id": "0352",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -847,9 +1255,17 @@
         "name": "Joue pas",
         "artist": "François Feldman",
         "id": "0157",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Gaëtan Roussel / Vanessa Paradis",
+    "items": []
   },
   {
     "artist": "Gala",
@@ -858,9 +1274,17 @@
         "name": "Freed from desire",
         "artist": "Gala",
         "id": "0335",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Garou",
+    "items": []
   },
   {
     "artist": "Georges Brassens",
@@ -869,31 +1293,81 @@
         "name": "Les copains d'abord",
         "artist": "Georges Brassens",
         "id": "0038",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "La mauvaise réputation",
         "artist": "Georges Brassens",
         "id": "0246",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "Le temps ne fait rien à l'affaire",
         "artist": "Georges Brassens",
         "id": "0247",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "Le pornographe",
         "artist": "Georges Brassens",
         "id": "0249",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "P... de toi",
         "artist": "Georges Brassens",
         "id": "0250",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Gilbert Montagné",
+    "items": [
+      {
+        "name": "On va s'aimer",
+        "artist": "Gilbert Montagné",
+        "id": "0367",
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Gims",
+    "items": [
+      {
+        "name": "Sapés comme jamais",
+        "artist": "Gims",
+        "id": "0375",
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -904,9 +1378,17 @@
         "name": "La même",
         "artist": "Gims / Vianney",
         "id": "0168",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Gipsy Kings",
+    "items": []
   },
   {
     "artist": "Gloria Gaynor",
@@ -915,7 +1397,11 @@
         "name": "I will survive",
         "artist": "Gloria Gaynor",
         "id": "0039",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -926,7 +1412,11 @@
         "name": "Plus près de étoiles",
         "artist": "Gold",
         "id": "0197",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -937,36 +1427,46 @@
         "name": "Quand la musique est bonne",
         "artist": "Goldman",
         "id": "0136",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Au bout de mes rêves",
         "artist": "Goldman",
         "id": "0196",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Envole moi",
         "artist": "Goldman",
         "id": "0308",
-        "lang": "FR"
-      },
-      {
-        "name": "Puisque tu pars",
-        "artist": "Goldman",
-        "id": "0312",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
   {
-    "artist": "Green Day",
+    "artist": "Green day",
     "items": [
       {
-        "name": "Basket Case",
-        "artist": "Green Day",
+        "name": "Basket case",
+        "artist": "Green day",
         "id": "0362",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -977,7 +1477,9 @@
         "name": "Toi et moi",
         "artist": "Guillaume Grand",
         "id": "0345",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [],
+        "fifi": true
       }
     ]
   },
@@ -988,7 +1490,26 @@
         "name": "Knocking at heaven's door",
         "artist": "Guns'n'Roses",
         "id": "0040",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Hernandez",
+    "items": [
+      {
+        "name": "Born to be alive",
+        "artist": "Hernandez",
+        "id": "0288",
+        "lang": "FR",
+        "scope": [
+          "syl"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -999,7 +1520,11 @@
         "name": "Il est libre max",
         "artist": "Hervé Cristiani",
         "id": "0041",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1010,9 +1535,17 @@
         "name": "Tombé du ciel",
         "artist": "Higelin",
         "id": "0132",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Hoshi",
+    "items": []
   },
   {
     "artist": "IAM",
@@ -1021,9 +1554,17 @@
         "name": "Je danse le Mia",
         "artist": "IAM",
         "id": "0175",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Imagination",
+    "items": []
   },
   {
     "artist": "Indochine",
@@ -1032,13 +1573,21 @@
         "name": "L'aventurier",
         "artist": "Indochine",
         "id": "0044",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Trois nuits par semaine",
         "artist": "Indochine",
         "id": "0202",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1049,7 +1598,11 @@
         "name": "Amsterdam",
         "artist": "Jacques Brel",
         "id": "0281",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1060,25 +1613,90 @@
         "name": "Et moi et moi",
         "artist": "Jacques Dutronc",
         "id": "0045",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Les cactus",
         "artist": "Jacques Dutronc",
         "id": "0046",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Il est 5h, Paris s'éveille",
         "artist": "Jacques Dutronc",
         "id": "0258",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "J'aime les filles",
         "artist": "Jacques Dutronc",
         "id": "0259",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Jean Baptiste Guégan",
+    "items": []
+  },
+  {
+    "artist": "Jean-Louis Aubert",
+    "items": [
+      {
+        "name": "Demain sera parfait",
+        "artist": "Jean-Louis Aubert",
+        "id": "0359",
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Jeanette",
+    "items": [
+      {
+        "name": "Por que te vas",
+        "artist": "Jeanette",
+        "id": "0365",
+        "lang": "ES",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Jennifer",
+    "items": [
+      {
+        "name": "Au soleil",
+        "artist": "Jennifer",
+        "id": "0372",
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1089,7 +1707,11 @@
         "name": "I love rock'n'roll",
         "artist": "Joan Jett",
         "id": "0048",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1100,7 +1722,11 @@
         "name": "Unchain my heart",
         "artist": "Joe cocker",
         "id": "0079",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1111,13 +1737,21 @@
         "name": "Aux champs élysées",
         "artist": "Joe Dassin",
         "id": "0304",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "Et si tu n'existait pas",
         "artist": "Joe Dassin",
         "id": "0324",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1128,7 +1762,11 @@
         "name": "Imagine",
         "artist": "John Lennon",
         "id": "0049",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1139,39 +1777,77 @@
         "name": "Allumer le feu",
         "artist": "Johnny Hallyday",
         "id": "0050",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Le pénitencier",
         "artist": "Johnny Hallyday",
         "id": "0051",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Toute la musique que j’aime",
         "artist": "Johnny Hallyday",
         "id": "0052",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Fils de personne",
         "artist": "Johnny Hallyday",
         "id": "0119",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      },
+      {
+        "name": "L'Envie",
+        "artist": "Johnny Hallyday",
+        "id": "0282",
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Quelque chose de Tenessee",
         "artist": "Johnny Hallyday",
         "id": "0306",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
-        "name": "J'ai un problème",
-        "artist": "Johnny Hallyday & Sylvie Vartan",
-        "id": "0355",
-        "lang": "FR"
+        "name": "Je te promets",
+        "artist": "Johnny Hallyday",
+        "id": "0358",
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Johnny Hallyday & Sylvie Vartan",
+    "items": []
   },
   {
     "artist": "Julien Doré",
@@ -1180,9 +1856,17 @@
         "name": "Coco Caline",
         "artist": "Julien Doré",
         "id": "0173",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Juliette Armanet",
+    "items": []
   },
   {
     "artist": "K. Maro",
@@ -1191,9 +1875,17 @@
         "name": "Femme like you",
         "artist": "K. Maro",
         "id": "0291",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "syl"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Kelsea Ballerini",
+    "items": []
   },
   {
     "artist": "Kendji Girac",
@@ -1202,15 +1894,28 @@
         "name": "Andalouse",
         "artist": "Kendji Girac",
         "id": "0133",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Gitano",
         "artist": "Kendji Girac",
         "id": "0180",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive",
+          "syl"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Kenny Chesney",
+    "items": []
   },
   {
     "artist": "Khaled",
@@ -1219,7 +1924,26 @@
         "name": "Aïcha",
         "artist": "Khaled",
         "id": "0156",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Kyo",
+    "items": [
+      {
+        "name": "Dernière danse",
+        "artist": "Kyo",
+        "id": "0366",
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1230,7 +1954,11 @@
         "name": "La goffa lolita",
         "artist": "La petite culotte",
         "id": "0351",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1241,9 +1969,21 @@
         "name": "Libérée délivrée",
         "artist": "La Reine des neiges",
         "id": "0151",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Labelle",
+    "items": []
+  },
+  {
+    "artist": "Lady A",
+    "items": []
   },
   {
     "artist": "Lady Gaga",
@@ -1252,9 +1992,27 @@
         "name": "Shallow",
         "artist": "Lady Gaga",
         "id": "0166",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      },
+      {
+        "name": "Poker face",
+        "artist": "Lady Gaga",
+        "id": "0381",
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Lalajoy",
+    "items": []
   },
   {
     "artist": "Larusso",
@@ -1263,7 +2021,11 @@
         "name": "Tu m'oublieras",
         "artist": "Larusso",
         "id": "0283",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1274,7 +2036,12 @@
         "name": "Salsa du démon",
         "artist": "Le Splendid",
         "id": "0195",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil",
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1285,7 +2052,26 @@
         "name": "C'est toi que je t'aime",
         "artist": "Les Inconnus",
         "id": "0055",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Les innocents",
+    "items": [
+      {
+        "name": "L'Autre Finistère",
+        "artist": "Les innocents",
+        "id": "0382",
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1296,9 +2082,17 @@
         "name": "Jouer avec le feu",
         "artist": "Les Sheriff",
         "id": "0260",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Loreen",
+    "items": []
   },
   {
     "artist": "Los Lobo",
@@ -1307,26 +2101,21 @@
         "name": "La Bamba",
         "artist": "Los Lobo",
         "id": "0225",
-        "lang": "ES"
+        "lang": "ES",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
   {
+    "artist": "Lou Bega",
+    "items": []
+  },
+  {
     "artist": "Louane",
-    "items": [
-      {
-        "name": "Si t'étais là",
-        "artist": "Louane",
-        "id": "0311",
-        "lang": "FR"
-      },
-      {
-        "name": "Je vole",
-        "artist": "Louane",
-        "id": "0313",
-        "lang": "FR"
-      }
-    ]
+    "items": []
   },
   {
     "artist": "Louis Armstrong",
@@ -1335,7 +2124,11 @@
         "name": "What a wonderful world",
         "artist": "Louis Armstrong",
         "id": "0276",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1346,7 +2139,12 @@
         "name": "J't'emmène au vent",
         "artist": "Lousie Attaque",
         "id": "0192",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive",
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1357,20 +2155,17 @@
         "name": "Sweet home alabama",
         "artist": "Lynyrd Skynyrd",
         "id": "0228",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "madyfab"
+        ],
+        "fifi": true
       }
     ]
   },
   {
     "artist": "M",
-    "items": [
-      {
-        "name": "Matchistador",
-        "artist": "M",
-        "id": "0184",
-        "lang": "EN"
-      }
-    ]
+    "items": []
   },
   {
     "artist": "M & Vanessa Paradis",
@@ -1379,7 +2174,12 @@
         "name": "La Seine",
         "artist": "M & Vanessa Paradis",
         "id": "0261",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive",
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1390,18 +2190,30 @@
         "name": "La tribu de Dana",
         "artist": "Manau",
         "id": "0176",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
   {
-    "artist": "Manu Chao",
+    "artist": "Maneskin",
+    "items": []
+  },
+  {
+    "artist": "Manu CHao",
     "items": [
       {
         "name": "Clandestino",
-        "artist": "Manu Chao",
+        "artist": "Manu CHao",
         "id": "0262",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1412,7 +2224,28 @@
         "name": "La semaine prochaine",
         "artist": "Marc Lavoine",
         "id": "0342",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Maroon 5",
+    "items": []
+  },
+  {
+    "artist": "Marylin Manson",
+    "items": [
+      {
+        "name": "Sweet Dreams",
+        "artist": "Marylin Manson",
+        "id": "0056",
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1423,7 +2256,11 @@
         "name": "San Francisco",
         "artist": "Maxime le Forestier",
         "id": "0263",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1434,7 +2271,11 @@
         "name": "Bye bye",
         "artist": "Menelik",
         "id": "0303",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1445,7 +2286,11 @@
         "name": "Et Bam",
         "artist": "Mentissa",
         "id": "0316",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1456,9 +2301,17 @@
         "name": "Enter sandman",
         "artist": "Metallica",
         "id": "0125",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Michael Jackson",
+    "items": []
   },
   {
     "artist": "Michel Sardou",
@@ -1467,7 +2320,43 @@
         "name": "Etre une femme",
         "artist": "Michel Sardou",
         "id": "0201",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Mickael Jackson",
+    "items": []
+  },
+  {
+    "artist": "Mike Oldfield",
+    "items": [
+      {
+        "name": "Moonlight shadow",
+        "artist": "Mike Oldfield",
+        "id": "0059",
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Miley Cirrus",
+    "items": [
+      {
+        "name": "Joleen",
+        "artist": "Miley Cirrus",
+        "id": "0340",
+        "lang": "EN",
+        "scope": [],
+        "fifi": true
       }
     ]
   },
@@ -1475,16 +2364,14 @@
     "artist": "Miley Cirus",
     "items": [
       {
-        "name": "Joleen",
-        "artist": "Miley Cirrus",
-        "id": "0340",
-        "lang": "EN"
-      },
-      {
         "name": "Flowers",
         "artist": "Miley Cirus",
         "id": "0298",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1495,7 +2382,9 @@
         "name": "Bravo tu as gagné",
         "artist": "Mireille Mathieu",
         "id": "0344",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [],
+        "fifi": true
       }
     ]
   },
@@ -1506,13 +2395,21 @@
         "name": "Libertine",
         "artist": "Mylène Farmer",
         "id": "0060",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Sans contrefaçon",
         "artist": "Mylène Farmer",
         "id": "0061",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1523,7 +2420,30 @@
         "name": "These boots are made for walking",
         "artist": "Nancy Sinatra",
         "id": "0238",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Neg Marrons",
+    "items": []
+  },
+  {
+    "artist": "Neil Young",
+    "items": [
+      {
+        "name": "Heart of gold",
+        "artist": "Neil Young",
+        "id": "0209",
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1534,7 +2454,11 @@
         "name": "99 luftballons",
         "artist": "Nena",
         "id": "0301",
-        "lang": "DE"
+        "lang": "DE",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1545,7 +2469,21 @@
         "name": "J'ai vu",
         "artist": "Niagara",
         "id": "0062",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      },
+      {
+        "name": "L'amour à la plage",
+        "artist": "Niagara",
+        "id": "0369",
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1556,7 +2494,11 @@
         "name": "Le sud",
         "artist": "Nino Ferrer",
         "id": "0063",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1567,13 +2509,21 @@
         "name": "Smells like teen spirit",
         "artist": "Nirvana",
         "id": "0064",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "About a girl",
         "artist": "Nirvana",
         "id": "0210",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1584,7 +2534,9 @@
         "name": "Just a girl",
         "artist": "No Doubt",
         "id": "0065",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [],
+        "fifi": true
       }
     ]
   },
@@ -1595,31 +2547,71 @@
         "name": "Comme elle vient",
         "artist": "Noir Désir",
         "id": "0066",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Lazy",
         "artist": "Noir Désir",
         "id": "0067",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Le vent nous portera",
         "artist": "Noir Désir",
         "id": "0068",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      },
+      {
+        "name": "Tostaky",
+        "artist": "Noir Désir",
+        "id": "0069",
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "L'Homme pressé",
         "artist": "Noir Désir",
         "id": "0115",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Aux sombres héros de l'amer",
         "artist": "Noir Désir",
         "id": "0264",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
+      },
+      {
+        "name": "Un jour en France",
+        "artist": "Noir Désir",
+        "id": "0370",
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1630,15 +2622,27 @@
         "name": "Wonderwall",
         "artist": "Oasis",
         "id": "0070",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Don't look back in anger",
         "artist": "Oasis",
         "id": "0208",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Offenbach",
+    "items": []
   },
   {
     "artist": "Oldelaf",
@@ -1647,7 +2651,11 @@
         "name": "La tristitude",
         "artist": "Oldelaf",
         "id": "0266",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1658,7 +2666,11 @@
         "name": "Dock of the bay",
         "artist": "Otis Redding",
         "id": "0071",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1669,9 +2681,17 @@
         "name": "Via con me",
         "artist": "Paolo conte",
         "id": "0267",
-        "lang": "IT"
+        "lang": "IT",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Papa roach",
+    "items": []
   },
   {
     "artist": "Patricia Kaas",
@@ -1680,7 +2700,11 @@
         "name": "Mon mec à moi",
         "artist": "Patricia Kaas",
         "id": "0072",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1691,15 +2715,28 @@
         "name": "Place des grands hommes",
         "artist": "Patrick Bruel",
         "id": "0252",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "Alors regarde",
         "artist": "Patrick Bruel",
         "id": "0337",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive",
+          "phil"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Patrick Fiori",
+    "items": []
   },
   {
     "artist": "Patrick Juvet",
@@ -1708,7 +2745,11 @@
         "name": "Où sont les femmes ?",
         "artist": "Patrick Juvet",
         "id": "0161",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1719,9 +2760,17 @@
         "name": "Happy",
         "artist": "Pharell Williams",
         "id": "0296",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Pigalle",
+    "items": []
   },
   {
     "artist": "Pink",
@@ -1730,7 +2779,11 @@
         "name": "Cover me in sunshine",
         "artist": "Pink",
         "id": "0268",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1741,7 +2794,11 @@
         "name": "Another brick in the wall",
         "artist": "Pink Floyd",
         "id": "0074",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1752,7 +2809,11 @@
         "name": "Ça plane pour moi",
         "artist": "Plastic Bertrand",
         "id": "0075",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1763,7 +2824,11 @@
         "name": "La poupée qui fait non",
         "artist": "Polnareff",
         "id": "0076",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1774,13 +2839,29 @@
         "name": "Don't stop me now",
         "artist": "Queen",
         "id": "0269",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       },
       {
         "name": "The show must go on",
         "artist": "Queen",
         "id": "0270",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
+      },
+      {
+        "name": "We will rock you",
+        "artist": "Queen",
+        "id": "0284",
+        "lang": "EN",
+        "scope": [],
+        "fifi": true
       }
     ]
   },
@@ -1791,9 +2872,17 @@
         "name": "Creep",
         "artist": "Radiohead",
         "id": "0077",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "RATM",
+    "items": []
   },
   {
     "artist": "Ray Charles",
@@ -1802,9 +2891,32 @@
         "name": "Hit the road Jack",
         "artist": "Ray Charles",
         "id": "0300",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Red hot chili peppers",
+    "items": [
+      {
+        "name": "Californication",
+        "artist": "Red hot chili peppers",
+        "id": "0211",
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Regg'lyss",
+    "items": []
   },
   {
     "artist": "Renaud",
@@ -1813,25 +2925,52 @@
         "name": "Dès que le vent soufflera",
         "artist": "Renaud",
         "id": "0134",
-        "lang": "FR"
-      },
-      {
-        "name": "Morgane de toi",
-        "artist": "Renaud",
-        "id": "0271",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Laisse béton",
         "artist": "Renaud",
         "id": "0272",
-        "lang": "FR"
-      },
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Renaud, Axelle Red",
+    "items": [
       {
         "name": "Manhattan Kaboul",
         "artist": "Renaud, Axelle Red",
         "id": "0353",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Ricchi e Poveri",
+    "items": [
+      {
+        "name": "Sara perche ti amo",
+        "artist": "Ricchi e Poveri",
+        "id": "0361",
+        "lang": "FR",
+        "scope": [
+          "funlive",
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1842,9 +2981,17 @@
         "name": "C'est comme ça",
         "artist": "Rita Mitsouko",
         "id": "0080",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Rod Stewart",
+    "items": []
   },
   {
     "artist": "Rolling Stones",
@@ -1853,38 +3000,47 @@
         "name": "Jumpin' Jack Flash",
         "artist": "Rolling Stones",
         "id": "0081",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Satisfaction",
         "artist": "Rolling Stones",
         "id": "0082",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Sympathy for the Devil",
         "artist": "Rolling Stones",
         "id": "0120",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Angie",
         "artist": "Rolling Stones",
         "id": "0273",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
   {
-    "artist": "Roméo Elvis",
-    "items": [
-      {
-        "name": "Tout oublier",
-        "artist": "Angèle / Romeo Elvis",
-        "id": "0169",
-        "lang": "FR"
-      }
-    ]
+    "artist": "Sabine Paturel",
+    "items": []
   },
   {
     "artist": "Saez",
@@ -1893,7 +3049,11 @@
         "name": "Jeune et con",
         "artist": "Saez",
         "id": "0299",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1904,9 +3064,37 @@
         "name": "Popcorn salé",
         "artist": "Santa",
         "id": "0310",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Sébastien Patoche",
+    "items": []
+  },
+  {
+    "artist": "Shania Twain",
+    "items": [
+      {
+        "name": "Man I feel like a woman",
+        "artist": "Shania Twain",
+        "id": "0234",
+        "lang": "EN",
+        "scope": [
+          "madyfab",
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "items": []
   },
   {
     "artist": "Sinsemilia (& Kids United)",
@@ -1915,7 +3103,11 @@
         "name": "Tout le bonheur du monde",
         "artist": "Sinsemilia (& Kids United)",
         "id": "0153",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1926,7 +3118,11 @@
         "name": "Des milliers de je t'aime",
         "artist": "Slimane",
         "id": "0317",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1937,18 +3133,34 @@
         "name": "Wannabe",
         "artist": "Spice girls",
         "id": "0127",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
   {
+    "artist": "Steevie Wonder",
+    "items": []
+  },
+  {
     "artist": "Steppenwolf",
+    "items": []
+  },
+  {
+    "artist": "Sting",
     "items": [
       {
-        "name": "Born to be wild",
-        "artist": "Steppenwolf",
-        "id": "0084",
-        "lang": "EN"
+        "name": "English man in New York",
+        "artist": "Sting",
+        "id": "0373",
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1959,7 +3171,26 @@
         "name": "Papaoutai",
         "artist": "Stromae",
         "id": "0171",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Superbus",
+    "items": [
+      {
+        "name": "Lola",
+        "artist": "Superbus",
+        "id": "0376",
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -1970,9 +3201,17 @@
         "name": "Eyes of the tiger",
         "artist": "Survivor",
         "id": "0233",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "madyfab"
+        ],
+        "fifi": true
       }
     ]
+  },
+  {
+    "artist": "Syl",
+    "items": []
   },
   {
     "artist": "Téléphone",
@@ -1981,31 +3220,49 @@
         "name": "Argent trop cher",
         "artist": "Téléphone",
         "id": "0085",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Au cœur de la nuit",
         "artist": "Téléphone",
         "id": "0086",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [],
+        "fifi": true
       },
       {
         "name": "Cendrillon",
         "artist": "Téléphone",
         "id": "0087",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Hygiaphone",
         "artist": "Téléphone",
         "id": "0088",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Un autre monde",
         "artist": "Téléphone",
         "id": "0089",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2016,13 +3273,21 @@
         "name": "Ça c'est vraiment toi",
         "artist": "Téléphone ",
         "id": "0090",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "New York avec toi",
         "artist": "Téléphone ",
         "id": "0091",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2033,7 +3298,11 @@
         "name": "House of the rising sun",
         "artist": "The Animals",
         "id": "0117",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2044,25 +3313,41 @@
         "name": "Come together",
         "artist": "The Beatles",
         "id": "0092",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Help",
         "artist": "The Beatles",
         "id": "0093",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Hey Jude",
         "artist": "The Beatles",
         "id": "0094",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Let it be",
         "artist": "The Beatles",
         "id": "0095",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2073,31 +3358,39 @@
         "name": "London calling",
         "artist": "The Clash",
         "id": "0096",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      },
+      {
+        "name": "Should I stay or should I go ?",
+        "artist": "The Clash",
+        "id": "0097",
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
   {
     "artist": "The Commitments",
-    "items": [
-      {
-        "name": "Mustang sally",
-        "artist": "The Commitments",
-        "id": "0099",
-        "lang": "EN"
-      }
-    ]
+    "items": []
+  },
+  {
+    "artist": "The Corrs",
+    "items": []
   },
   {
     "artist": "The Doobie Brothers",
-    "items": [
-      {
-        "name": "Long train running",
-        "artist": "The Doobie Brothers",
-        "id": "0100",
-        "lang": "EN"
-      }
-    ]
+    "items": []
+  },
+  {
+    "artist": "The Doors",
+    "items": []
   },
   {
     "artist": "The Eagles",
@@ -2106,7 +3399,11 @@
         "name": "Hotel California",
         "artist": "The Eagles",
         "id": "0102",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2117,7 +3414,26 @@
         "name": "Killing me softly",
         "artist": "The Fugees",
         "id": "0103",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "The kinks",
+    "items": [
+      {
+        "name": "You really got me",
+        "artist": "The kinks",
+        "id": "0229",
+        "lang": "EN",
+        "scope": [
+          "madyfab"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2128,7 +3444,11 @@
         "name": "Self esteem",
         "artist": "The Offspring",
         "id": "0265",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2139,13 +3459,31 @@
         "name": "Every breathe you take",
         "artist": "The Police",
         "id": "0104",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Message in a bottle",
         "artist": "The Police",
         "id": "0105",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      },
+      {
+        "name": "So lonely",
+        "artist": "The Police",
+        "id": "0106",
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2156,13 +3494,11 @@
         "name": "Blinding lights",
         "artist": "The Weeknd",
         "id": "0295",
-        "lang": "EN"
-      },
-      {
-        "name": "Save your tears",
-        "artist": "The Weeknd",
-        "id": "0347",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "syl"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2173,7 +3509,11 @@
         "name": "La fille du coupeur de joint",
         "artist": "Thiéfaine",
         "id": "0042",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2184,7 +3524,11 @@
         "name": "Le jerk",
         "artist": "Thierry Hazard",
         "id": "0135",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2195,7 +3539,11 @@
         "name": "Proud Mary",
         "artist": "Tina Turner",
         "id": "0108",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2206,7 +3554,11 @@
         "name": "Sex bomb",
         "artist": "Tom Jones",
         "id": "0292",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "syl"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2217,7 +3569,11 @@
         "name": "Dance monkey",
         "artist": "Tones and I",
         "id": "0236",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "madyfab"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2228,13 +3584,21 @@
         "name": "Talkin 'bout a revolution",
         "artist": "Tracy Chapman",
         "id": "0116",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Baby can I hold you",
         "artist": "Tracy Chapman",
         "id": "0227",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "madyfab"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2245,13 +3609,21 @@
         "name": "Bella ciao",
         "artist": "Traditionnel italien",
         "id": "0109",
-        "lang": "IT"
+        "lang": "IT",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Bella ciao (ES)",
         "artist": "Traditionnel italien",
         "id": "0309",
-        "lang": "ES"
+        "lang": "ES",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2262,7 +3634,11 @@
         "name": "A nos souvenirs",
         "artist": "Trois cafés gourmands",
         "id": "0350",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2273,7 +3649,11 @@
         "name": "Antisocial",
         "artist": "Trust",
         "id": "0110",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2281,10 +3661,38 @@
     "artist": "Tryo",
     "items": [
       {
-        "name": "L'Hymne de nos campagnes",
+        "name": "L'hymne de nos campagnes",
         "artist": "Tryo",
         "id": "0360",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive",
+          "phil"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "U2",
+    "items": []
+  },
+  {
+    "artist": "Vance Joy",
+    "items": []
+  },
+  {
+    "artist": "Vanessa da Mata & Ben Harper",
+    "items": [
+      {
+        "name": "Boa sorte",
+        "artist": "Vanessa da Mata & Ben Harper",
+        "id": "0380",
+        "lang": "PT",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2295,13 +3703,36 @@
         "name": "Drôle de vie",
         "artist": "Véronique Sanson",
         "id": "0200",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       },
       {
         "name": "Besoin de personne",
         "artist": "Véronique Sanson",
         "id": "0274",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "phil"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Vitaa & Slimane",
+    "items": [
+      {
+        "name": "Ça va ça vient",
+        "artist": "Vitaa & Slimane",
+        "id": "0383",
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2312,7 +3743,30 @@
         "name": "Seven nation army",
         "artist": "White Stripes",
         "id": "0113",
-        "lang": "EN"
+        "lang": "EN",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
+      }
+    ]
+  },
+  {
+    "artist": "Zaz",
+    "items": []
+  },
+  {
+    "artist": "Zazie & Axel Bauer",
+    "items": [
+      {
+        "name": "A ma place",
+        "artist": "Zazie & Axel Bauer",
+        "id": "0379",
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   },
@@ -2323,7 +3777,11 @@
         "name": "Tomber la chemise",
         "artist": "Zebda",
         "id": "0114",
-        "lang": "FR"
+        "lang": "FR",
+        "scope": [
+          "funlive"
+        ],
+        "fifi": true
       }
     ]
   }

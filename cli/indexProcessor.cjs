@@ -14,8 +14,9 @@ function transformData(inputData) {
         if (!groupedArray[artist]) {
             groupedArray[artist] = { artist, items: [] };
         }
-
-        groupedArray[artist].items.push(item);
+        if (item.fifi) {
+            groupedArray[artist].items.push(item);
+        }
     });
 
     // Sort the groupedArray alphabetically by surname

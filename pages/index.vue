@@ -8,15 +8,8 @@ const songs: Song[] = indexJson
 
 <template>
   <div class="text-center py-10 bg-orange-100 mb-5">
-    <h1 class="mb-2 font-bold text-xl text-orange-800">Fifi Juke Box</h1>
+    <h1 class="mb-2 font-bold text-xl text-orange-800">Peaz music</h1>
     <div class="text-[2.5em] mb-3">🎸🎤</div>
-    <div class="text-sm text-slate-600 mb-1">News / vidéos :</div>
-    <nuxt-link to="https://www.facebook.com/fifimusicnews" target="_blank" class="text-[#0866ff] inline-flex justify-start items-center font-bold mb-8">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" class="fill-[#0866ff] w-6 h-6 inline-block mr-1">
-        <path d="M25,3C12.85,3,3,12.85,3,25c0,11.03,8.125,20.137,18.712,21.728V30.831h-5.443v-5.783h5.443v-3.848 c0-6.371,3.104-9.168,8.399-9.168c2.536,0,3.877,0.188,4.512,0.274v5.048h-3.612c-2.248,0-3.033,2.131-3.033,4.533v3.161h6.588 l-0.894,5.783h-5.694v15.944C38.716,45.318,47,36.137,47,25C47,12.85,37.15,3,25,3z"/>
-      </svg>
-      Fifi
-    </nuxt-link>
   </div>
 
   <div class="text-center text-sm text-slate-600 pt-3 mb-5">Répertoire (click pour paroles) :</div>
@@ -38,7 +31,7 @@ const songs: Song[] = indexJson
       </li>
     </ul>
     <div class="py-8 italic">
-      Contact: Fifi - 06.73.51.74.46
+      Contact: Philip - 06.73.51.74.46
     </div>
   </div>
 </template>
