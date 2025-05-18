@@ -61,10 +61,6 @@
     ]
   },
   {
-    "artist": "Adèle",
-    "items": []
-  },
-  {
     "artist": "Alain Bashung",
     "items": [
       {
@@ -93,10 +89,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Alessia Cara",
-    "items": []
   },
   {
     "artist": "Amel Bent",
@@ -159,22 +151,6 @@
     ]
   },
   {
-    "artist": "Angèle / Romeo Elvis",
-    "items": []
-  },
-  {
-    "artist": "Anne Sylvestre",
-    "items": []
-  },
-  {
-    "artist": "Aretha Franklin",
-    "items": []
-  },
-  {
-    "artist": "Avicii",
-    "items": []
-  },
-  {
     "artist": "Axel Bauer",
     "items": [
       {
@@ -206,10 +182,6 @@
     ]
   },
   {
-    "artist": "Barbara Pravi",
-    "items": []
-  },
-  {
     "artist": "Ben E King",
     "items": [
       {
@@ -223,10 +195,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Ben harper",
-    "items": []
   },
   {
     "artist": "Ben l'oncle Soul",
@@ -243,10 +211,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Beth Hart",
-    "items": []
   },
   {
     "artist": "Big Soul",
@@ -302,10 +266,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Blondie",
-    "items": []
   },
   {
     "artist": "Blues Brothers",
@@ -378,10 +338,6 @@
     ]
   },
   {
-    "artist": "Brian Adams",
-    "items": []
-  },
-  {
     "artist": "Britney Spears",
     "items": [
       {
@@ -405,10 +361,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Bruce Channel",
-    "items": []
   },
   {
     "artist": "Bruno Mars",
@@ -737,10 +689,6 @@
     ]
   },
   {
-    "artist": "Counting Crows",
-    "items": []
-  },
-  {
     "artist": "Cranberries",
     "items": [
       {
@@ -881,10 +829,6 @@
     ]
   },
   {
-    "artist": "Deep Purple",
-    "items": []
-  },
-  {
     "artist": "Desireless",
     "items": [
       {
@@ -898,10 +842,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Dolly",
-    "items": []
   },
   {
     "artist": "Donna Summer",
@@ -961,14 +901,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Ed Sheeran",
-    "items": []
-  },
-  {
-    "artist": "Eddie Floyd",
-    "items": []
   },
   {
     "artist": "Eddy Mitchell",
@@ -1042,10 +974,6 @@
     ]
   },
   {
-    "artist": "Emile et images",
-    "items": []
-  },
-  {
     "artist": "Emile et Images",
     "items": [
       {
@@ -1099,14 +1027,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Evanescence",
-    "items": []
-  },
-  {
-    "artist": "Flashdance",
-    "items": []
   },
   {
     "artist": "Franc Gall",
@@ -1264,10 +1184,6 @@
     ]
   },
   {
-    "artist": "Gaëtan Roussel / Vanessa Paradis",
-    "items": []
-  },
-  {
     "artist": "Gala",
     "items": [
       {
@@ -1281,10 +1197,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Garou",
-    "items": []
   },
   {
     "artist": "Georges Brassens",
@@ -1385,10 +1297,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Gipsy Kings",
-    "items": []
   },
   {
     "artist": "Gloria Gaynor",
@@ -1544,10 +1452,6 @@
     ]
   },
   {
-    "artist": "Hoshi",
-    "items": []
-  },
-  {
     "artist": "IAM",
     "items": [
       {
@@ -1561,10 +1465,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Imagination",
-    "items": []
   },
   {
     "artist": "Indochine",
@@ -1650,10 +1550,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Jean Baptiste Guégan",
-    "items": []
   },
   {
     "artist": "Jean-Louis Aubert",
@@ -1846,10 +1742,6 @@
     ]
   },
   {
-    "artist": "Johnny Hallyday & Sylvie Vartan",
-    "items": []
-  },
-  {
     "artist": "Julien Doré",
     "items": [
       {
@@ -1865,10 +1757,6 @@
     ]
   },
   {
-    "artist": "Juliette Armanet",
-    "items": []
-  },
-  {
     "artist": "K. Maro",
     "items": [
       {
@@ -1882,10 +1770,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Kelsea Ballerini",
-    "items": []
   },
   {
     "artist": "Kendji Girac",
@@ -1912,10 +1796,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Kenny Chesney",
-    "items": []
   },
   {
     "artist": "Khaled",
@@ -1978,14 +1858,6 @@
     ]
   },
   {
-    "artist": "Labelle",
-    "items": []
-  },
-  {
-    "artist": "Lady A",
-    "items": []
-  },
-  {
     "artist": "Lady Gaga",
     "items": [
       {
@@ -2009,10 +1881,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Lalajoy",
-    "items": []
   },
   {
     "artist": "Larusso",
@@ -2091,10 +1959,6 @@
     ]
   },
   {
-    "artist": "Loreen",
-    "items": []
-  },
-  {
     "artist": "Los Lobo",
     "items": [
       {
@@ -2108,14 +1972,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Lou Bega",
-    "items": []
-  },
-  {
-    "artist": "Louane",
-    "items": []
   },
   {
     "artist": "Louis Armstrong",
@@ -2164,10 +2020,6 @@
     ]
   },
   {
-    "artist": "M",
-    "items": []
-  },
-  {
     "artist": "M & Vanessa Paradis",
     "items": [
       {
@@ -2199,10 +2051,6 @@
     ]
   },
   {
-    "artist": "Maneskin",
-    "items": []
-  },
-  {
     "artist": "Manu CHao",
     "items": [
       {
@@ -2229,10 +2077,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Maroon 5",
-    "items": []
   },
   {
     "artist": "Marylin Manson",
@@ -2310,10 +2154,6 @@
     ]
   },
   {
-    "artist": "Michael Jackson",
-    "items": []
-  },
-  {
     "artist": "Michel Sardou",
     "items": [
       {
@@ -2327,10 +2167,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Mickael Jackson",
-    "items": []
   },
   {
     "artist": "Mike Oldfield",
@@ -2427,10 +2263,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Neg Marrons",
-    "items": []
   },
   {
     "artist": "Neil Young",
@@ -2641,10 +2473,6 @@
     ]
   },
   {
-    "artist": "Offenbach",
-    "items": []
-  },
-  {
     "artist": "Oldelaf",
     "items": [
       {
@@ -2690,10 +2518,6 @@
     ]
   },
   {
-    "artist": "Papa roach",
-    "items": []
-  },
-  {
     "artist": "Patricia Kaas",
     "items": [
       {
@@ -2735,10 +2559,6 @@
     ]
   },
   {
-    "artist": "Patrick Fiori",
-    "items": []
-  },
-  {
     "artist": "Patrick Juvet",
     "items": [
       {
@@ -2767,10 +2587,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Pigalle",
-    "items": []
   },
   {
     "artist": "Pink",
@@ -2881,10 +2697,6 @@
     ]
   },
   {
-    "artist": "RATM",
-    "items": []
-  },
-  {
     "artist": "Ray Charles",
     "items": [
       {
@@ -2913,10 +2725,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Regg'lyss",
-    "items": []
   },
   {
     "artist": "Renaud",
@@ -2990,10 +2798,6 @@
     ]
   },
   {
-    "artist": "Rod Stewart",
-    "items": []
-  },
-  {
     "artist": "Rolling Stones",
     "items": [
       {
@@ -3039,10 +2843,6 @@
     ]
   },
   {
-    "artist": "Sabine Paturel",
-    "items": []
-  },
-  {
     "artist": "Saez",
     "items": [
       {
@@ -3073,10 +2873,6 @@
     ]
   },
   {
-    "artist": "Sébastien Patoche",
-    "items": []
-  },
-  {
     "artist": "Shania Twain",
     "items": [
       {
@@ -3091,10 +2887,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Simon & Garfunkel",
-    "items": []
   },
   {
     "artist": "Sinsemilia (& Kids United)",
@@ -3140,14 +2932,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Steevie Wonder",
-    "items": []
-  },
-  {
-    "artist": "Steppenwolf",
-    "items": []
   },
   {
     "artist": "Sting",
@@ -3208,10 +2992,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Syl",
-    "items": []
   },
   {
     "artist": "Téléphone",
@@ -3375,22 +3155,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "The Commitments",
-    "items": []
-  },
-  {
-    "artist": "The Corrs",
-    "items": []
-  },
-  {
-    "artist": "The Doobie Brothers",
-    "items": []
-  },
-  {
-    "artist": "The Doors",
-    "items": []
   },
   {
     "artist": "The Eagles",
@@ -3674,14 +3438,6 @@
     ]
   },
   {
-    "artist": "U2",
-    "items": []
-  },
-  {
-    "artist": "Vance Joy",
-    "items": []
-  },
-  {
     "artist": "Vanessa da Mata & Ben Harper",
     "items": [
       {
@@ -3750,10 +3506,6 @@
         "fifi": true
       }
     ]
-  },
-  {
-    "artist": "Zaz",
-    "items": []
   },
   {
     "artist": "Zazie & Axel Bauer",
