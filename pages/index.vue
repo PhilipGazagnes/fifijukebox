@@ -30,9 +30,9 @@ function compare(a: Song, b: Song) {
 
 <template>
   <div class="py-10 px-5">
-    <h1 class="mb-2 font-bold text-xl">Peaz music</h1>
+    <h1 class="mb-2 font-bold text-xl"><span class="text-3xl font-extrabold block">Peaz</span> <span class="text-md font-thin">MUSIC</span></h1>
     <div class="text-[2.5em] mb-3">🎸🎤</div>
-    <div class="text-sm pt-3">Répertoire (click pour paroles) :</div>
+    <div class="text-sm pt-3">Répertoire (clic pour paroles) :</div>
   </div>
 
   <div class="p-5">
