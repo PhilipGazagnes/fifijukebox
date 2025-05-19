@@ -3,7 +3,7 @@ import indexJson from '../data/index.json'
 
 type Song = any
 
-const songs: Song[] = indexJson.sort(compare)
+const songs: Song[] = indexJson.filter(song => song.fifi).sort(compare)
 
 function regularFirstLetter(str: string) {
   let txt = str;
